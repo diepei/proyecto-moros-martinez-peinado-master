@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">CriptoValores</string>
+
+    <string name="texto_prueba">texto_prueba</string>
+
+    <!-- Actividad Main -->
+    <string name="boton_login">Accedir</string>
+    <string name="boton_register">Registrar-se</string>
+    <string name="boton_no_login">Accedir sense registre</string>
+
+    <string name="info">Sobre nosaltres</string>
+    <string name="equipo">Equip de desenvolupadors:</string>
+    <string name="pr_textView">Repositori en GitHub per al treball:</string>
+    <string name="eslogan">Preus en temps real per a Criptomonedes</string>
+
+    <!-- Actividad de Login -->
+    <string name="titulo_login">Pàgina de Login</string>
+    <string name="titulo_registro">Pàgina de Registro</string>
+    <string name="hint_nombre">Nom</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Contrasenya</string>
+    <string name="pass_olvidada"><u>¿Has oblidat la contraseña?</u></string>
+
+    <!-- Actividad de Coin Page -->
+    <string name="titulo_activity_coin_page">Informació</string>
+
+    <!-- Actividad de Lista y Adaptador -->
+    <string name="titulo_activity_app">Llista de Criptomonedes</string>
+    <string name="hint_busqueda">Buscar per nom</string>
+    <string name="precio">Preu: $</string>
+    <string name="marketCap">Capital de mercat: $</string>
+    <string name="volume24h">Volum / 24h: $</string>
+    <string name="last_update">Última actualizació:</string>
+    <string name="simbolo">Símbol:</string>
+    <string name="slug">Slug:</string>
+    <string name="init_date">Data d\'inici:</string>
+    <string name="cmc">Rang CMC:</string>
+    <string name="cambio_1h">Canvi 1h:</string>
+    <string name="cambio_24h">Canvi 24h:</string>
+    <string name="cambio_7d">Canvi 7 dies:</string>
+    <string name="pares_divisa">Parells de divisa:</string>
+    <string name="sum_circ">Subministrament en circulació:</string>
+    <string name="sum_max">Subministrament màxim:</string>
+    <string name="sum_tot">Subministrament total:</string>
+    <string name="var_graph">Variació de</string>
+    <string name="sum_graph">Suministre de</string>
+
+    <!-- Dialogo Recuperar Contraseña -->
+    <string name="introduce_mail">Introdueix el email de registre</string>
+    <string name="titulo_recuperar">Recuperar contrasenya</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancel·lar</string>
+
+    <!-- Dialogo Cerrar Sesión -->
+    <string name="titulo_logout">¿Desitja ixir?</string>
+    <string name="mensaje_logout">Si ixes tancaràs la sessió</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+
+    <!-- Mensajes de Toast -->
+    <string name="registro_ok">Registre correcte</string>
+    <string name="login_ok">Login correcte</string>
+    <string name="error">Alguna cosa ha anat malament…</string>
+    <string name="error_pass">La contrasenya té que tindre 6 caracters</string>
+    <string name="error_campos">Completa tots els camps</string>
+    <string name="error_datos">Email o contrasenya incorrectes</string>
+    <string name="error_mail">Introdueix un email vàlid</string>
+    <string name="correo_enviado">Correu enviat correctament</string>
+    <string name="error_internet">Revisa la connexió a Internet</string>
+    <string name="logout_ok">Sessió tancada correctament</string>
+    <string name="registrate">Registra\'t per a tindre disponible tota la informació</string>
+
+
+
+</resources>

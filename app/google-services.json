@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354096846089",
+    "firebase_url": "https://trabajo-aatt.firebaseio.com",
+    "project_id": "trabajo-aatt",
+    "storage_bucket": "trabajo-aatt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354096846089:android:d8171d01f2f80e79256fd8",
+        "android_client_info": {
+          "package_name": "es.upv.etsit.aatt.paco.trabajoaatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354096846089-26cmfshbmrtte22vsmerrph0uq6t94fk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.upv.etsit.aatt.paco.trabajoaatt",
+            "certificate_hash": "012a68e20990d073312113a54b96e44e75c10688"
+          }
+        },
+        {
+          "client_id": "354096846089-n6j97u4chbgn4oqtic2sn96su0ifgd28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDto7HR5nQlSw2TH1MGAFXW-jg6qygEpTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354096846089-n6j97u4chbgn4oqtic2sn96su0ifgd28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

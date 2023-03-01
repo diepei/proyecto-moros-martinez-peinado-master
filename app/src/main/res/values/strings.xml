@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">CriptoValores</string>
+
+    <string name="texto_prueba">texto_prueba</string>
+
+    <!-- Actividad Main -->
+    <string name="boton_login">Acceder</string>
+    <string name="boton_register">Registrarse</string>
+    <string name="boton_no_login">Acceder sin registrarse</string>
+    <string name="eslogan">Precios en tiempo real para Criptomonedas</string>
+
+    <!-- Actividad Info -->
+    <string name="info">Acerca de nosotros</string>
+    <string name="trabajo" translatable="false">Moros-Martínez-Peinado</string>
+    <string name="jormoba" translatable="false"><b>Jormoba</b>\nJordi Moros Badenes</string>
+    <string name="diepeima" translatable="false"><b>diepeima</b>\nDiego Peinado Martínez</string>
+    <string name="alex" translatable="false"><b>alexmcm1999</b>\nÁlex Martínez-Carbonell Marín</string>
+    <string name="pr_textView">Repositorio en GitHub para el trabajo:</string>
+    <string name="equipo">Equipo de desarrolladores:</string>
+
+    <!-- Actividad de Login -->
+    <string name="titulo_login">"Página de Login"</string>
+    <string name="titulo_registro">"Página de Registro"</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="pass_olvidada"><u>¿Has olvidado tu contraseña?</u></string>
+
+    <!-- Actividad de Coin Page -->
+    <string name="titulo_activity_coin_page">Información</string>
+
+    <!-- Actividad de Lista y Adaptador -->
+    <string name="titulo_activity_app">Lista de Criptomonedas</string>
+    <string name="hint_busqueda">Buscar por nombre</string>
+    <string name="precio">Precio: $</string>
+    <string name="marketCap">Capital de mercado: $</string>
+    <string name="volume24h">Volumen / 24h: $</string>
+    <string name="last_update">Última actualización:</string>
+    <string name="simbolo">Símbolo:</string>
+    <string name="slug">Slug:</string>
+    <string name="init_date">Fecha de inicio:</string>
+    <string name="cmc">Rango CMC:</string>
+    <string name="cambio_1h">Cambio 1h:</string>
+    <string name="cambio_24h">Cambio 24h:</string>
+    <string name="cambio_7d">Cambio 7 días:</string>
+    <string name="pares_divisa">Pares de divisa:</string>
+    <string name="sum_circ">Suministro en circulación:</string>
+    <string name="sum_max">Suministro máximo:</string>
+    <string name="sum_tot">Suministro total:</string>
+    <string name="var_graph">Variación de</string>
+    <string name="sum_graph">Suministro de</string>
+
+    <!-- Dialogo Recuperar Contraseña -->
+    <string name="introduce_mail">Introduce el email de registro</string>
+    <string name="titulo_recuperar">Recuperar contraseña</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <!-- Dialogo Cerrar Sesión -->
+    <string name="titulo_logout">¿Desea salir?</string>
+    <string name="mensaje_logout">Si sales cerrarás la sesión</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+
+    <!-- Mensajes de Toast -->
+    <string name="registro_ok">Registro correcto</string>
+    <string name="login_ok">"Login correcto"</string>
+    <string name="error">Algo ha ido mal…</string>
+    <string name="error_pass">La contraseña tiene que tener 6 caracteres</string>
+    <string name="error_campos">Completa todos los campos</string>
+    <string name="error_datos">Email o contraseña incorrectos</string>
+    <string name="error_mail">Introduce un email válido</string>
+    <string name="correo_enviado">Correo enviado correctamente</string>
+    <string name="error_internet">Revisa tu conexión a Internet</string>
+    <string name="logout_ok">Sesión cerrada correctamente</string>
+    <string name="registrate">Regístrate para tener disponible toda la información</string>
+
+
+</resources>

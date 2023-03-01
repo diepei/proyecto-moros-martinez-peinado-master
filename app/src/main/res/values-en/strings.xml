@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CriptoValores</string>
+
+    <string name="texto_prueba">texto_prueba</string>
+
+    <!-- Actividad Main -->
+    <string name="boton_login">Login</string>
+    <string name="boton_register">Register</string>
+    <string name="boton_no_login">Enter without login</string>
+
+    <!-- Actividad Ajustes -->
+    <string name="info">About us</string>
+    <string name="pr_textView">GitHub repository for work:</string>
+    <string name="equipo">Developer team:</string>
+    <string name="eslogan">Real-time prices for Cryptocurrencies</string>
+
+    <!-- Actividad de Login -->
+    <string name="titulo_login">Login Page</string>
+    <string name="titulo_registro">Register Page</string>
+    <string name="hint_nombre">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="pass_olvidada"><u>Have you forgotten your password?</u></string>
+
+    <!-- Actividad de Coin Page -->
+    <string name="titulo_activity_coin_page">Information</string>
+
+    <!-- Actividad de Lista y Adaptador -->
+    <string name="titulo_activity_app">Cryptocurrency List</string>
+    <string name="hint_busqueda">Search by name</string>
+    <string name="precio">Price: $</string>
+    <string name="marketCap">Market capital: $</string>
+    <string name="volume24h">Volume / 24h: $</string>
+    <string name="last_update">Last update:</string>
+    <string name="simbolo">Symbol:</string>
+    <string name="slug">Slug:</string>
+    <string name="init_date">Start date:</string>
+    <string name="cmc">Rank CMC:</string>
+    <string name="cambio_1h">Change 1h:</string>
+    <string name="cambio_24h">Change 24h:</string>
+    <string name="cambio_7d">Change 7 days:</string>
+    <string name="pares_divisa">Currency pairs:</string>
+    <string name="sum_circ">Outstanding supply:</string>
+    <string name="sum_max">Maximum supply:</string>
+    <string name="sum_tot">Total supply:</string>
+    <string name="var_graph">Change of</string>
+    <string name="sum_graph">Supply of</string>
+
+    <!-- Dialogo Recuperar Contraseña -->
+    <string name="introduce_mail">Enter the registration email</string>
+    <string name="titulo_recuperar">Recover password</string>
+    <string name="enviar">Send</string>
+    <string name="cancelar">Cancel</string>
+
+    <!-- Dialogo Cerrar Sesión -->
+    <string name="titulo_logout">Do you want to logout?</string>
+    <string name="mensaje_logout">If you leave you will close the session</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Mensajes de Toast -->
+    <string name="registro_ok">Register OK</string>
+    <string name="login_ok">Login OK</string>
+    <string name="error">Something went wrong ...</string>
+    <string name="error_pass">Password must be 6 characters long</string>
+    <string name="error_campos">Complete all fields</string>
+    <string name="error_datos">Wrong email or password</string>
+    <string name="error_mail">Enter a valid email</string>
+    <string name="correo_enviado">Mail successfully sent</string>
+    <string name="error_internet">Check your internet connection</string>
+    <string name="logout_ok">Session closed successfully</string>
+    <string name="registrate">Sign up to have all the information available</string>
+
+
+
+</resources>
